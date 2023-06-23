@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucca
+- 👋 Hi, I’m lucca
 - 👀 I’m interested in computational linguistics
 - 🌱 I’m currently learning python
 
